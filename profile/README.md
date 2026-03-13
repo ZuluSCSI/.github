@@ -13,7 +13,8 @@ ZuluSCSI firmware development primarily takes place at https://github.com/ZuluSC
 ## Hardware
 
 **March 2026**:
-[ZuluSCSI Ultra Wide](https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B), the latest fully Open Source Hardware ZuluSCSI Ultra Wide design, including [KiCad design files and Gerbers/BOM/POS fabbrication files](https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B/releases/) 
+Release of the new [ZuluSCSI Ultra Wide OSHW](https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B), the latest **_fully_** Open Source Hardware ZuluSCSI Ultra Wide design.
+[KiCad design files and Gerbers/BOM/POS fabbrication files](https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B/releases/) are now available.
 
 <img width="566" alt="ZuluSCSI Ultra Wide OSHW Rev2026b top Down Render" src="https://github.com/user-attachments/assets/445ea9e0-7c0f-47ee-830e-d1ef68602845" />
 
