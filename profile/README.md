@@ -12,6 +12,10 @@ ZuluSCSI firmware development primarily takes place at https://github.com/ZuluSC
 
 ## Hardware
 
-The latest Open Source Hardware ZuluSCSI Ultra Wide design, including [KiCad design files and Gerbers/BOM/POS fabbrication files](https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B/releases/), is published at https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B
+March 2026: [ZuluSCSI Ultra Wide](https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B), the latest fully Open Source Hardware ZuluSCSI Ultra Wide design, including [KiCad design files and Gerbers/BOM/POS fabbrication files](https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B/releases/), is published at 
 
-<img width="1804" height="1732" alt="ZuluSCSI-Ultra-Wide-OSHW-Rev2026b-topDownRender" src="https://github.com/user-attachments/assets/445ea9e0-7c0f-47ee-830e-d1ef68602845" />
+<img width="566" alt="ZuluSCSI Ultra Wide OSHW Rev2026b top Down Render" src="https://github.com/user-attachments/assets/445ea9e0-7c0f-47ee-830e-d1ef68602845" />
+
+The hardware design for the [original ZuluSCSI Pico OSHW design](https://github.com/ZuluSCSI/ZuluSCSI-Pico-OSHW), released in 2023, is accessible at<br> https://github.com/ZuluSCSI/ZuluSCSI-Pico-OSHW
+
+<img width="566" height="618" src="https://github.com/ZuluSCSI/ZuluSCSI-Pico-OSHW/raw/main/ZuluSCSI-Pico-OSHW-kicad/images/ZuluSCSI-Pico-OSHW-Rev2023c-render-top.png">
