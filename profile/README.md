@@ -4,7 +4,7 @@ ZuluSCSI is a family of advanced, high performance SCSI emulators, comprised of 
 
 ## Firmware Releases
 
-Visit https://github.com/ZuluSCSI/ZuluSCSI-firmware/releases/latest to access the latest and historical ZuluSCSI firmware releases. ZuluSCSI firmware is GPLv3-licensed Oen Source Software. 
+Visit https://github.com/ZuluSCSI/ZuluSCSI-firmware/releases/latest to access the latest and historical ZuluSCSI firmware releases. ZuluSCSI firmware is GPLv3-licensed Open Source Software. 
 
 ## Development
 
