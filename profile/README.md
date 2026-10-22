@@ -17,7 +17,7 @@ Release of the new [ZuluSCSI Ultra Wide OSHW](https://github.com/ZuluSCSI/ZuluSC
 
 Pre-assembled and tested ZuluSCSI Ultra Wide OSHW boards are also available for purchase from the [Rabbit Hole Computing Online Shop](https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B)
 
-[KiCad design files and Gerbers/BOM/POS fabrication files](https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B/releases/) are available via GitHub
+ZuluSCSI Ultra Wide OSHW [KiCad design files and Gerbers/BOM/POS fabrication files](https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B/releases/) are available via GitHub
 
 <img width="566" alt="ZuluSCSI Ultra Wide OSHW Rev2026b top Down Render" src="https://github.com/user-attachments/assets/445ea9e0-7c0f-47ee-830e-d1ef68602845" />
 <br\>
