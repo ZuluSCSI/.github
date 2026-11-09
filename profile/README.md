@@ -12,7 +12,13 @@ ZuluSCSI firmware development primarily takes place at https://github.com/ZuluSC
 
 ## Hardware
 
+**November 2026**:
+
+Rabbit Hole Computing is pleased to release [ZuluSCSI Blaster Ultra Lite](https://github.com/ZuluSCSI/ZuluSCSI-Blaster-Ultra-Lite-OSHW), our latest **_fully_** Open Source Hardware SCSI emulator.
+<img width="50%" src="https://github.com/ZuluSCSI/ZuluSCSI-Blaster-Ultra-Lite-OSHW/releases/download/Rev2026b/ZuluSCSI_Blaster_Ultra_Lite_OSHW_Rev2026b-top-rt-th.webp" />
+
 **March 2026**:
+
 Release of the new [ZuluSCSI Ultra Wide OSHW](https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B), the latest **_fully_** Open Source Hardware, [OSHWA-certified](https://certification.oshwa.org/us002798.html) ZuluSCSI Ultra Wide design
 
 Pre-assembled and tested ZuluSCSI Ultra Wide OSHW boards are also available for purchase from the [Rabbit Hole Computing Online Shop](https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B)
