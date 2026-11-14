@@ -1,6 +1,6 @@
 # ZuluSCSI GitHub Organization page
 
-ZuluSCSI is a family of advanced, high performance SCSI emulators, comprised of both [firmware](https://github.com/ZuluSCSI/ZuluSCSI-firmware/) and hardware.
+ZuluSCSI is a family of advanced, high performance SCSI emulators, comprised of both [firmware](https://github.com/ZuluSCSI/ZuluSCSI-firmware/) and [hardware](#open-source-hardware).
 
 ## Firmware Releases
 
@@ -10,7 +10,7 @@ Visit https://github.com/ZuluSCSI/ZuluSCSI-firmware/releases/latest to access th
 
 ZuluSCSI firmware development primarily takes place at https://github.com/ZuluSCSI/ZuluSCSI-firmware, where you can also ask questions in the Discussion section, or report firmware issues in the issues section
 
-## Open Source ZuluSCSI Hardware
+## Open Source Hardware
 
 **November 2026**:
 
