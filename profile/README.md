@@ -32,7 +32,7 @@ ZuluSCSI Ultra Wide OSHW [KiCad design files and Gerbers/BOM/POS fabrication fil
 <img width="566" alt="ZuluSCSI Ultra Wide OSHW Rev2026b top Down Render" src="https://github.com/user-attachments/assets/445ea9e0-7c0f-47ee-830e-d1ef68602845" />
 </p>
 
-The hardware design for the ZuluSCSI Pico OSHW design released in 2023 under the CERN OHL-S OSHW license, is accessible at [https://github.com/ZuluSCSI/ZuluSCSI-Pico-OSHW](https://github.com/ZuluSCSI/ZuluSCSI-Pico-OSHW))
+The hardware design for the [ZuluSCSI Pico OSHW design](https://github.com/ZuluSCSI/ZuluSCSI-Pico-OSHW) released in 2023 under the CERN OHL-S OSHW license.
 
 <p align="center">
 <img width="566" height="618" src="https://github.com/ZuluSCSI/ZuluSCSI-Pico-OSHW/raw/main/ZuluSCSI-Pico-OSHW-kicad/images/ZuluSCSI-Pico-OSHW-Rev2023c-render-top.png">
