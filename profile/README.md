@@ -1,6 +1,8 @@
 # ZuluSCSI GitHub Organization page
 
-ZuluSCSI is a family of advanced, high performance SCSI emulators, consisting of both [firmware](https://github.com/ZuluSCSI/ZuluSCSI-firmware/) and [hardware](#open-source-hardware).
+ZuluSCSI is a family of advanced, high performance SCSI emulators, consisting of both [firmware](https://github.com/ZuluSCSI/ZuluSCSI-firmware/) and [hardware](#open-source-hardware). 
+
+Pre-assembled and tested ZuluSCSI Blaster and Ultra Wide OSHW boards are also available for purchase from the [Rabbit Hole Computing Online Shop](https://shop.rabbitholecomputing.com/collections/zuluscsi) and our [authorized resellers](http://zuluscsi.com/wheretobuy).
 
 ## Firmware Releases
 
@@ -21,8 +23,6 @@ Rabbit Hole Computing is pleased to release [ZuluSCSI Blaster Ultra Lite](https:
 **March 2026**:
 
 Release of the new [ZuluSCSI Ultra Wide OSHW](https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B), the latest **_fully_** Open Source Hardware, [OSHWA-certified](https://certification.oshwa.org/us002798.html) ZuluSCSI Ultra Wide design
-
-Pre-assembled and tested ZuluSCSI Ultra Wide OSHW boards are also available for purchase from the [Rabbit Hole Computing Online Shop](https://shop.rabbitholecomputing.com/collections/zuluscsi) and our [authorized resellers](http://zuluscsi.com/wheretobuy)
 
 ZuluSCSI Ultra Wide OSHW [KiCad design files and Gerbers/BOM/POS fabrication files](https://github.com/ZuluSCSI/ZuluSCSI-Ultra-Wide-OSHW-RP2350B/releases/) are available via GitHub
 
